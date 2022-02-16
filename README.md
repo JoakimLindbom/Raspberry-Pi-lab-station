@@ -5,8 +5,8 @@
 
 
 ## Background
-This is an easy to print handy labstation for Raspberry Pi with a replacable lab slate. The slate easily snaps in and out of its position.
-It's 4mm thick, which is same as many HiFi enclosures and other easy-to-buy encosures and boxes.
+This is an easy to print handy labstation for Raspberry Pi with a replaecable lab slate. The slate easily snaps in and out of its position.
+It's 4mm thick, which is same as many HiFi enclosures and other easy-to-buy enclosures and boxes.
 
 The Raspberry Pi can be fastened with 4 small knowbs; not included in the images below, but available as STL and in the 3D model.
 
@@ -17,4 +17,4 @@ The Raspberry Pi can be fastened with 4 small knowbs; not included in the images
 
 
 ## Other sites
-Available at https://www.thingiverse.com/thing:
+Available at https://www.thingiverse.com/thing:5249874
